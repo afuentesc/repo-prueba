@@ -20,7 +20,7 @@ El objetivo del proyecto es [explicar aquí el objetivo general del proyecto].
 ## Referencias
 ![](imagenes/referencias.png)
 
-- Carpenter, Bob. 2018. “Predator-Prey Population Dynamics: The Lotka-Volterra Model in Stan.”
+- Carpenter, Bob. 2018. “Predator-Prey Population Dynamics: The Lotka-Volterra Model in Stan.” [Liga](https://mc-stan.org/users/documentation/case-studies/lotka-volterra-predator-prey.html)
 - Alligood, K., T. D. Sauer, and K. Yorke J. A. 1996. CHAOS: An Introduction to Dynamical Systems. Springer.
 - Bacaër, N. 2011. A Short Story of Mathematical Population. Springer.
 - Brauer, Fred, and Carlos Castillo-Chavez. 2012. Mathematical Models in Population Biology and Epidemiology. Vol. 40. Texts in Applied Mathematics. New York, NY: Springer New York. https://doi.org/10.1007/978-1-4614-1686-9.
