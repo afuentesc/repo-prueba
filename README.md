@@ -3,10 +3,10 @@
 ## Introducción
 Este proyecto se desarrolló como parte del trabajo final de la asignatura `EST-46115: Modelación Bayesiana`. 
 
-### Objetivo del proyecto
+#### Objetivo del proyecto
 El objetivo del proyecto es permitir a los estudiantes de maestría explorar y conocer temas más especializados en el campo de aplicaciones de modelos bayesianos, que no pueden ser abarcados en un curso semestral. Los estudiantes tendrán la oportunidad de contribuir al desarrollo de uno de los proyectos enlistados y aprender a reproducir, evaluar y comparar modelos bayesianos en una aplicación específica. Además, se busca que los estudiantes encuentren una aplicación adicional del modelo en un campo distinto, utilizando datos de México.
 
-### Descripción del proyecto
+#### Descripción del proyecto
 El proyecto final es una oportunidad para que los estudiantes de maestría profundicen en el campo de modelos bayesianos y exploren aplicaciones más especializadas. Se presentan distintos proyectos para que los estudiantes puedan elegir en qué equipo quieren contribuir y desarrollar el proyecto final de la materia. Los proyectos abarcan diferentes áreas y naturalezas, lo que permitirá a los estudiantes adquirir experiencia en la aplicación de modelos bayesianos en distintos contextos. La evaluación del proyecto se basará en la capacidad de los estudiantes para reproducir, evaluar y comparar modelos, así como en la identificación de una aplicación adicional del modelo en un campo distinto utilizando datos de México. Con este proyecto, los estudiantes podrán ampliar sus conocimientos en el campo de modelos bayesianos y adquirir habilidades prácticas en su aplicación.
 
 ## Integrantes del equipo
