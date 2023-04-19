@@ -1,5 +1,5 @@
 # Proyecto final - Modelación Bayesiana
-###Cazando incertidumbre: un modelo presa-depredador bayesiano para la supervivencia del más apto
+### Cazando incertidumbre: un modelo presa-depredador bayesiano para la supervivencia del más apto
 
 ## Introducción
 
