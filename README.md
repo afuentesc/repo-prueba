@@ -39,3 +39,6 @@ Este es .....
         ├── _init_.py
         └── test_functions.py
 ```
+
+## Referencias
+![ref](imagenes/referencias.png)
